@@ -24,7 +24,7 @@
 .dark-mode{
     --bg--color:#060313;
     --text--color:#fdfdfd;
-    --shadow--color:rgba(0,0,0, .7);
+    --shadow--color:#fdfdfd;
 }
 
 html{
@@ -852,6 +852,10 @@ span{
 @media (max-width: 617px) {
     .portfolio .portfolio-container{
         grid-template-columns: 1fr;
+    }
+
+    .header{
+        width: 80%;
     }
 }
 
