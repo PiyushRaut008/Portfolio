@@ -877,11 +877,11 @@ span{
     }
 
     .home .profession-box .profession:nth-child(3) {
-        transform: rotate(90deg) translate(-95px, -430px);
+        transform: rotate(90deg) translate(-70px, -420px);
     }
 
     .home .profession-box .profession:nth-child(4) {
-        transform: rotate(180deg) translate(-180px, -335px);
+        transform: rotate(180deg) translate(-170px, -330px);
     }
 
     .contact form .input-box input {
